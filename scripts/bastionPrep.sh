@@ -91,6 +91,7 @@ subscription-manager repos \
     --enable="rhel-7-server-ose-3.11-rpms" \
     --enable="rhel-7-server-ansible-2.6-rpms" \
     --enable="rhel-7-fast-datapath-rpms" \
+    --enable="rhel-7-server-optional-rpms" \
     --enable="rh-gluster-3-client-for-rhel-7-server-rpms"
 
 # Update system to latest packages
